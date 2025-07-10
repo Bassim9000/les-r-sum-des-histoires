@@ -1,7 +1,6 @@
 <DOCTYPEHTML>
 <html>
 <head>
-<link rel="stylesheet" href="style.css">
 <title> Tous les résumers des histoires </title>
 </head>
 <body style="background-color:red">
@@ -21,6 +20,12 @@ Le sage a trompé l’homme dans un piège comme le hibou et le raconte l’hist
 Chaque soir il est malheureux. Il ne voulait pas que la nuit serai noir. Un soir, son père lui dit que le bruit qu’il a entendu la nuit, c’est le bruit des arbres qui le protège.
 Les deux sont aller à la fenêtre, le papa annonça que le vent chante une chanson douce qui l’aide à s’endormir, et les étoiles qui brillent dans le ciel sur la maison   en disant au garçon : Bonne nuit !
 Puis Sylvain s’endort tranquillement et rêve de bonne rêves.
+ </p>
+ <h1 style="color:darkblue";> Le singe et la tortue </h1>
+ <p style="color:white";>
+ Autrefois, il vivait un singe dans un figuier, il s’amusait en jetant des figues dans une mare ou il y a une tortue mâle. Un jour, la femelle de la tortue décida de ce débarrassé de l’ami intrus car son mâle absentait beaucoup, alors elle fait semblant qu’elle est malade et qu’un médecin lui a dit si veut-elle guérir, il faut qu’il mange le cœur d’un singe.
+Le mâle vint au figuier de singe et l’invite à venir à sa maison, en chemin la tortue raconte l’histoire de sa femme au singe puis ils reviendraient au figuier à l’habitat de singe.
+Après un long moment, le singe dit à son copain qu’il n’est pas fou pour qu’il lui donne son cœur.    
  </p>
 <body>
 </html>
