@@ -27,5 +27,11 @@ Puis Sylvain s’endort tranquillement et rêve de bonne rêves.
 Le mâle vint au figuier de singe et l’invite à venir à sa maison, en chemin la tortue raconte l’histoire de sa femme au singe puis ils reviendraient au figuier à l’habitat de singe.
 Après un long moment, le singe dit à son copain qu’il n’est pas fou pour qu’il lui donne son cœur.    
  </p>
+ <h1 style="color:darkblue";> Les hiboux et les corbeaux </h1>
+ <p style="color:white";>
+ Dans une montagne, il vivait des corbeaux non loin des hiboux. Dans une nuit, les hiboux tuèrent un grand nombre de corbeaux, alors le roi des corbeaux réunît ses corbeaux, un corbeau lui annonça de s’enfuir mais le roi n’accepte pas.
+Un jour, les corbeaux posèrent du bois devant l’habitat des hiboux et allumaient le feu, si un hibou sort, il mourra.
+Enfin les corbeaux sont débarrassés de leurs ennemis.	
+ </p>
 <body>
 </html>
