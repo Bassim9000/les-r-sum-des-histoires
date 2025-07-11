@@ -37,5 +37,10 @@ Enfin les corbeaux sont débarrassés de leurs ennemis.
  <p style="color:white";>
  Maria aime ses ami et sa famille, de cette raison elle les prépare des délicieux gâteaux. Mais chaque fois qu’elle prépare un gâteau il ne le retrouve jamais à sa place. Pour savoir qui vole les gâteaux il prépare un gâteau au piquant. Après une heure, il entend quelqu’un tousse dans sa cuisine, elle cour voir. C’est le Malino qui vole les gâteaux. Enfin Maria  le Malino de ne pas voler et de demander.
  </p>
+  <h1 style="color:darkblue";> Le touriste et le bijoutier </h1>
+ <p style="color:white";>
+ Dans une ville, il vivait un touriste qui est courageux car il a sauvé un singe, un bijoutier, un serpent et un lion qu’ils sont étés dans un trou. Les quatre ont invité le touriste à leurs meubles. Le vaillant homme par chez le singe qui a lui donner des fruits juteux, il part chez le lion qui a tué la princesse et pris ses bijoux et leur donne au bijoutier, après il va chez le bijoutier et lui dit que le lion le donna les bijoux de la princesse, puis le bijoutier va chez le roi et lui dit que le tueur de la princesse est dans sa maison. Le roi punit fort l’homme qui s’est regretté de sauvé l’homme. 
+Un jour, le prince de roi est très malade le touriste demanda au serpent de lui donner un médicament antipoison qui le donne au prince. Le roi est surpris quand le prince est sauvé de mourir puis le roi donna au touriste des cadeaux et de l’argent en le remerciant. 
+ </p>
 <body>
 </html>
