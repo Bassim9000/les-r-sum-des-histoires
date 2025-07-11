@@ -33,5 +33,9 @@ Après un long moment, le singe dit à son copain qu’il n’est pas fou pour q
 Un jour, les corbeaux posèrent du bois devant l’habitat des hiboux et allumaient le feu, si un hibou sort, il mourra.
 Enfin les corbeaux sont débarrassés de leurs ennemis.	
  </p>
+  <h1 style="color:darkblue";> Du piquant dans le gâteau </h1>
+ <p style="color:white";>
+ Maria aime ses ami et sa famille, de cette raison elle les prépare des délicieux gâteaux. Mais chaque fois qu’elle prépare un gâteau il ne le retrouve jamais à sa place. Pour savoir qui vole les gâteaux il prépare un gâteau au piquant. Après une heure, il entend quelqu’un tousse dans sa cuisine, elle cour voir. C’est le Malino qui vole les gâteaux. Enfin Maria  le Malino de ne pas voler et de demander.
+ </p>
 <body>
 </html>
