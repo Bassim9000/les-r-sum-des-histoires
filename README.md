@@ -42,5 +42,16 @@ Enfin les corbeaux sont débarrassés de leurs ennemis.
  Dans une ville, il vivait un touriste qui est courageux car il a sauvé un singe, un bijoutier, un serpent et un lion qu’ils sont étés dans un trou. Les quatre ont invité le touriste à leurs meubles. Le vaillant homme par chez le singe qui a lui donner des fruits juteux, il part chez le lion qui a tué la princesse et pris ses bijoux et leur donne au bijoutier, après il va chez le bijoutier et lui dit que le lion le donna les bijoux de la princesse, puis le bijoutier va chez le roi et lui dit que le tueur de la princesse est dans sa maison. Le roi punit fort l’homme qui s’est regretté de sauvé l’homme. 
 Un jour, le prince de roi est très malade le touriste demanda au serpent de lui donner un médicament antipoison qui le donne au prince. Le roi est surpris quand le prince est sauvé de mourir puis le roi donna au touriste des cadeaux et de l’argent en le remerciant. 
  </p>
+  <h1 style="color:darkblue";> le petit poucet </h1>
+  <p style="color:white";>
+  Il était une fois, une famille pauvre, entre eux un petit garçon que son père le surnomma : le petit poucet malgré ça il est le plus intelligent. Un jour, les parents abandonnent leurs petits dans la forêt mais le petit poucet a jeté des rochers en chemin. Les parents sont surpris puis une deuxième fois dans la forêt mais cette fois si, le petit poucet jeta le pain que les oiseaux les mange. Alors, les enfants commence à pleurer, en ce moment-là le petit poucet monte un arbre, il a vu une lumière qui est diriger dans cette maison lui et ses frères, les deux ogres ont décidé de les mangés le matin.
+Le lendemain les enfants sont étés allé à leur maison avec beaucoup d’argent qu’ils ont trouvé dans la grotte. Enfin la famille ne sera plus pauvre.        
+  </p>
+   <h1 style="color:darkblue";> Le chat et le rat </h1>
+   <p style="color:white";>
+   Il était une fois, un chat qui vivait dans un trou pas loin d’un rat. Un jour, un chasseur plaça un filet au même arbre ou habitaient les deux ennemis. Le chat est tombé dans le piège de chasseur, en ce moment une belette et un hibou attendaient le moment propice pour dévorer le rat, l’un a besoin de l’autre. Le rongeur commence à défaire les nœuds de filet, les deux ennemis du rat sont partis car ils ont peur du chat.
+Enfin le chat se dit-il :
+J’aimerai bien que serai mon meilleur ami, mais jamais tu le seras.
+   </p>
 <body>
 </html>
