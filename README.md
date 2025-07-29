@@ -53,5 +53,13 @@ Le lendemain les enfants sont étés allé à leur maison avec beaucoup d’arge
 Enfin le chat se dit-il :
 J’aimerai bien que serai mon meilleur ami, mais jamais tu le seras.
    </p>
+  <h1 style="color:darkblue";> Le cadeau empoisoné </h1>
+   <p style="color:darkblue";>
+   Il était une fois, une fille qui s’appelle Meriem qui était sympa et aide ses deux frères dans leurs devoirs.
+Un jour ses parents lui des cadeaux tel que : un gâteau et une tablette qui est devenu une main pour elle, elle ne fait plus ses devoirs n’aide ses frère dans leurs devoirs. Les profs remarquent son niveau qui baisse de plus en plus, puis ils ont appris aux parents.
+Le père donne ses excuses à la fille. Enfin Meriem a pu recevoir ses anciennes habitudes.      
+   </p>
+<body>
+</html>
 <body>
 </html>
